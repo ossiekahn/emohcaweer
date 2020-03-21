@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://choodooqu.zhaoyanbing.cn/sitemap.xml
